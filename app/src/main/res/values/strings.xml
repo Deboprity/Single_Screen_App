@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_header">Buen Provecho</string>
+    <string name="img_content_description">logo</string>
+    <string name="app_desc">Come and enjoy the authentic home cooked Mexican Cuisine at an affordable price. We are open 24X7.</string>
+    <string name="app_location">Location : Calle Monte Albán XXX, Narvarte Oriente, 03020 Ciudad de México, CDMX</string>
+    <string name="app_contact">Call XXXXXXXX or send email at my1stapp@gmail.com</string>
+</resources>
